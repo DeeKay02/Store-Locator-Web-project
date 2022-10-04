@@ -1,8 +1,3 @@
-
-
-window.onload = () => {
-}
-
 var map;
 var markers = [];
 var infoWindow;
